@@ -1,0 +1,1923 @@
+{
+  "id": "rsce-sociability",
+  "title": "RSCE Sociability Test - Official Questions",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "¿Cuál es el único método de Identificación válido para perros?",
+      "explanation": "",
+      "options": [
+        { "id": "q1a", "text": "Microchip", "correct": true },
+        { "id": "q1b", "text": "Tatuaje en la oreja", "correct": false },
+        {
+          "id": "q1c",
+          "text": "Collar con chapa identificativa solamente",
+          "correct": false
+        },
+        {
+          "id": "q1d",
+          "text": "Tinte permanente en el pelo",
+          "correct": false
+        },
+        {
+          "id": "q1e",
+          "text": "Código de barras impreso en la cartilla",
+          "correct": false
+        },
+        {
+          "id": "q1f",
+          "text": "Anillo identificativo en la pata",
+          "correct": false
+        },
+        {
+          "id": "q1g",
+          "text": "Código QR en la correa sin registro oficial",
+          "correct": false
+        },
+        { "id": "q1h", "text": "Collar GPS sin microchip", "correct": false }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "¿Cuál es la edad mínima requerida al perro/a para poder presentarse a la Prueba de Sociabilidad de la RSCE?",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q2a",
+          "text": "Debe tener los 10 meses cumplidos",
+          "correct": true
+        },
+        {
+          "id": "q2b",
+          "text": "Debe tener al menos 6 meses",
+          "correct": false
+        },
+        {
+          "id": "q2c",
+          "text": "Debe tener al menos 8 meses",
+          "correct": false
+        },
+        {
+          "id": "q2d",
+          "text": "Debe tener al menos 12 meses",
+          "correct": false
+        },
+        {
+          "id": "q2e",
+          "text": "No existe edad mínima establecida",
+          "correct": false
+        },
+        {
+          "id": "q2f",
+          "text": "Debe tener exactamente 9 meses",
+          "correct": false
+        },
+        {
+          "id": "q2g",
+          "text": "Solo pueden participar perros mayores de 2 años",
+          "correct": false
+        },
+        {
+          "id": "q2h",
+          "text": "Depende del criterio del juez en cada prueba",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "La primera parte de la Prueba de Sociabilidad (fase de campo), ¿de cuántos ejercicios consta?",
+      "explanation": "",
+      "options": [
+        { "id": "q3a", "text": "Consta de 7 ejercicios", "correct": true },
+        { "id": "q3b", "text": "Consta de 3 ejercicios", "correct": false },
+        { "id": "q3c", "text": "Consta de 5 ejercicios", "correct": false },
+        { "id": "q3d", "text": "Consta de 10 ejercicios", "correct": false },
+        { "id": "q3e", "text": "Consta de 12 ejercicios", "correct": false },
+        { "id": "q3f", "text": "Consta de 2 ejercicios", "correct": false },
+        { "id": "q3g", "text": "Consta de 9 ejercicios", "correct": false },
+        { "id": "q3h", "text": "Consta de 4 ejercicios", "correct": false }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "¿En qué consiste el primer ejercicio de la primera parte a realizar en pista?",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q4a",
+          "text": "Tumbados en grupo, a una distancia mínima de 3 metros entre uno y otro. Los guías se alejan sin soltar la correa hasta situarse frente a sus perros sin mirarles durante al menos dos minutos, mientras el juez introduce alguna distracción.",
+          "correct": true
+        },
+        {
+          "id": "q4b",
+          "text": "Perros sentados en grupo mientras los guías se colocan detrás de ellos y los miran constantemente durante un minuto.",
+          "correct": false
+        },
+        {
+          "id": "q4c",
+          "text": "Perros caminando sueltos en círculo mientras los guías permanecen en el centro de la pista sin correa.",
+          "correct": false
+        },
+        {
+          "id": "q4d",
+          "text": "Perros en posición de pie atados a una valla mientras el guía se sienta a 10 metros leyendo.",
+          "correct": false
+        },
+        {
+          "id": "q4e",
+          "text": "Perros tumbados individualmente en diferentes rincones de la pista, sin otros perros cerca y sin distracciones.",
+          "correct": false
+        },
+        {
+          "id": "q4f",
+          "text": "Perros junto al guía, realizando un ejercicio de llamada a la orden desde 50 metros.",
+          "correct": false
+        },
+        {
+          "id": "q4g",
+          "text": "Perros sentados en grupo mientras los guías dan vueltas alrededor con la correa suelta.",
+          "correct": false
+        },
+        {
+          "id": "q4h",
+          "text": "Perros caminando en línea recta entre conos, cada uno separado del resto por al menos 10 metros.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Los perros considerados potencialmente peligrosos ¿deben llevar puesto el bozal en vía pública según la Legislación vigente?",
+      "explanation": "",
+      "options": [
+        { "id": "q5a", "text": "Sí", "correct": true },
+        {
+          "id": "q5b",
+          "text": "No, solo en parques caninos",
+          "correct": false
+        },
+        {
+          "id": "q5c",
+          "text": "Solo si el perro pesa más de 20 kg",
+          "correct": false
+        },
+        {
+          "id": "q5d",
+          "text": "Solo si el perro ha tenido incidentes previos de agresividad",
+          "correct": false
+        },
+        {
+          "id": "q5e",
+          "text": "Solo en transportes públicos",
+          "correct": false
+        },
+        {
+          "id": "q5f",
+          "text": "No, solo es recomendable pero no obligatorio",
+          "correct": false
+        },
+        {
+          "id": "q5g",
+          "text": "Solo si el propietario no lleva licencia",
+          "correct": false
+        },
+        {
+          "id": "q5h",
+          "text": "Nunca, la normativa no regula el uso de bozal",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "¿Cuál es el objetivo de la Prueba de Sociabilidad de la RSCE?",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q6a",
+          "text": "Evaluar el comportamiento social y el carácter del perro para una buena integración en la sociedad",
+          "correct": true
+        },
+        {
+          "id": "q6b",
+          "text": "Medir únicamente la capacidad física y velocidad del perro",
+          "correct": false
+        },
+        {
+          "id": "q6c",
+          "text": "Seleccionar perros exclusivamente para competición deportiva",
+          "correct": false
+        },
+        {
+          "id": "q6d",
+          "text": "Determinar qué perros son aptos para reproducción",
+          "correct": false
+        },
+        {
+          "id": "q6e",
+          "text": "Evaluar únicamente la obediencia en órdenes básicas",
+          "correct": false
+        },
+        {
+          "id": "q6f",
+          "text": "Entrenar al perro para defensa personal del propietario",
+          "correct": false
+        },
+        {
+          "id": "q6g",
+          "text": "Valorar solo el aspecto físico y estándar de la raza",
+          "correct": false
+        },
+        {
+          "id": "q6h",
+          "text": "Obtener un registro de pedigrí para el perro",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "¿Cómo se deberá llevar al perro en todo momento en zonas urbanas?",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q7a",
+          "text": "Siempre con correa y controlado",
+          "correct": true
+        },
+        {
+          "id": "q7b",
+          "text": "Suelto si está adiestrado y responde a la llamada",
+          "correct": false
+        },
+        {
+          "id": "q7c",
+          "text": "Solo con collar, sin necesidad de correa",
+          "correct": false
+        },
+        {
+          "id": "q7d",
+          "text": "Suelto en calles poco transitadas",
+          "correct": false
+        },
+        {
+          "id": "q7e",
+          "text": "Atado únicamente cuando haya otros perros cerca",
+          "correct": false
+        },
+        {
+          "id": "q7f",
+          "text": "Con correa solo en presencia de niños",
+          "correct": false
+        },
+        { "id": "q7g", "text": "Sin correa si lleva bozal", "correct": false },
+        {
+          "id": "q7h",
+          "text": "Solo sujeto con arnés extensible en modo libre",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "text": "¿Cómo deberá tener un perro con respecto a las Normativas urbanas y de salud?",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q8a",
+          "text": "Con su cartilla o pasaporte donde estén reflejados los datos de identificación y salud, perfectamente vacunado, desparasitado e identificado mediante microchip",
+          "correct": true
+        },
+        {
+          "id": "q8b",
+          "text": "Solo vacunación de la rabia, sin necesidad de identificación",
+          "correct": false
+        },
+        {
+          "id": "q8c",
+          "text": "Solo collar con nombre y teléfono del propietario",
+          "correct": false
+        },
+        {
+          "id": "q8d",
+          "text": "Solo desparasitación interna sin control veterinario",
+          "correct": false
+        },
+        {
+          "id": "q8e",
+          "text": "Pasaporte únicamente si sale al extranjero",
+          "correct": false
+        },
+        {
+          "id": "q8f",
+          "text": "Ficha escrita a mano sin firma veterinaria",
+          "correct": false
+        },
+        {
+          "id": "q8g",
+          "text": "Identificación solo obligatoria en perros potencialmente peligrosos",
+          "correct": false
+        },
+        {
+          "id": "q8h",
+          "text": "Ningún documento es obligatorio mientras el perro esté sano a simple vista",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "text": "¿Cómo se deberá transportar un perro en el interior de un vehículo?",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q9a",
+          "text": "De manera autorizada y que nunca pueda poner en peligro la seguridad de los ocupantes del vehículo",
+          "correct": true
+        },
+        {
+          "id": "q9b",
+          "text": "Suelto en los asientos traseros si es perro pequeño",
+          "correct": false
+        },
+        {
+          "id": "q9c",
+          "text": "En brazos del acompañante en el asiento delantero",
+          "correct": false
+        },
+        {
+          "id": "q9d",
+          "text": "Suelto en el maletero de cualquier manera",
+          "correct": false
+        },
+        {
+          "id": "q9e",
+          "text": "En el regazo del conductor si el trayecto es corto",
+          "correct": false
+        },
+        {
+          "id": "q9f",
+          "text": "Atado con la correa a la palanca del freno de mano",
+          "correct": false
+        },
+        {
+          "id": "q9g",
+          "text": "Sujeto solo con un collar, sin otros dispositivos",
+          "correct": false
+        },
+        {
+          "id": "q9h",
+          "text": "En el techo del coche en un transportín fijado",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "text": "¿Dónde se podrán soltar a los perros en una zona urbana?",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q10a",
+          "text": "En zonas habilitadas para ello por Normativa municipal",
+          "correct": true
+        },
+        {
+          "id": "q10b",
+          "text": "En cualquier parque público, siempre que no haya niños",
+          "correct": false
+        },
+        {
+          "id": "q10c",
+          "text": "En calles poco transitadas durante la noche",
+          "correct": false
+        },
+        {
+          "id": "q10d",
+          "text": "En plazas peatonales si el perro está educado",
+          "correct": false
+        },
+        {
+          "id": "q10e",
+          "text": "En jardines privados comunitarios sin permiso",
+          "correct": false
+        },
+        {
+          "id": "q10f",
+          "text": "En cualquier zona verde señalizada como parque",
+          "correct": false
+        },
+        {
+          "id": "q10g",
+          "text": "En la vía pública cuando no haya tráfico",
+          "correct": false
+        },
+        {
+          "id": "q10h",
+          "text": "En zonas de juegos infantiles si está con bozal",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "text": "¿Es obligatorio llevar la correa en parte urbana de la Prueba de Sociabilidad de la RSCE y qué tipo de collar-material está permitido?",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q11a",
+          "text": "Sí, es obligatorio, y solo se permiten collares autorizados por ley que no dañen al perro",
+          "correct": true
+        },
+        {
+          "id": "q11b",
+          "text": "No es obligatorio, se puede llevar al perro suelto si obedece",
+          "correct": false
+        },
+        {
+          "id": "q11c",
+          "text": "Es obligatorio, pero se permiten collares de ahogo metálicos",
+          "correct": false
+        },
+        {
+          "id": "q11d",
+          "text": "Solo se permite el uso de collares eléctricos",
+          "correct": false
+        },
+        {
+          "id": "q11e",
+          "text": "No es obligatorio, basta con llevar bozal",
+          "correct": false
+        },
+        {
+          "id": "q11f",
+          "text": "Se permite cualquier tipo de collar o arnés sin restricciones",
+          "correct": false
+        },
+        {
+          "id": "q11g",
+          "text": "Solo se permiten collares de cadena con púas",
+          "correct": false
+        },
+        {
+          "id": "q11h",
+          "text": "Es obligatorio, pero solo para perros potencialmente peligrosos",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "text": "Los perros potencialmente peligrosos, ¿han de llevar bozal en fase de pista? ¿Y en fase urbana?",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q12a",
+          "text": "En la parte de pista no es necesario y en la urbana es obligatorio",
+          "correct": true
+        },
+        {
+          "id": "q12b",
+          "text": "En ambas fases es obligatorio el bozal",
+          "correct": false
+        },
+        {
+          "id": "q12c",
+          "text": "En ninguna fase es obligatorio el bozal",
+          "correct": false
+        },
+        {
+          "id": "q12d",
+          "text": "Solo en la fase de pista es obligatorio el bozal",
+          "correct": false
+        },
+        {
+          "id": "q12e",
+          "text": "En la parte urbana no es necesario, solo en la pista",
+          "correct": false
+        },
+        {
+          "id": "q12f",
+          "text": "Depende del criterio del guía en cada momento",
+          "correct": false
+        },
+        {
+          "id": "q12g",
+          "text": "Solo es obligatorio si hay otros perros presentes",
+          "correct": false
+        },
+        {
+          "id": "q12h",
+          "text": "Solo es obligatorio si el perro ha mostrado agresividad previa",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "text": "Indique dos métodos de sujeción para viajar con el perro en el coche.",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q13a",
+          "text": "Transportín y arnés con anclaje",
+          "correct": true
+        },
+        {
+          "id": "q13b",
+          "text": "Suelto en los asientos traseros",
+          "correct": false
+        },
+        {
+          "id": "q13c",
+          "text": "Suelto en el maletero sin sujeción",
+          "correct": false
+        },
+        {
+          "id": "q13d",
+          "text": "En brazos del pasajero delantero",
+          "correct": false
+        },
+        {
+          "id": "q13e",
+          "text": "Atado solo con la correa a un reposacabezas",
+          "correct": false
+        },
+        {
+          "id": "q13f",
+          "text": "Dentro de una caja de cartón sin cerrar",
+          "correct": false
+        },
+        {
+          "id": "q13g",
+          "text": "Sentado en el asiento delantero con las patas en el salpicadero",
+          "correct": false
+        },
+        {
+          "id": "q13h",
+          "text": "Suelto entre los asientos delanteros y traseros",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "text": "¿Cómo debemos pasear a nuestro perro por la ciudad?",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q14a",
+          "text": "Con correa y las medidas de seguridad necesarias para no molestar a nadie",
+          "correct": true
+        },
+        {
+          "id": "q14b",
+          "text": "Suelto si es obediente y se queda cerca",
+          "correct": false
+        },
+        {
+          "id": "q14c",
+          "text": "Solo con bozal, sin necesidad de correa",
+          "correct": false
+        },
+        {
+          "id": "q14d",
+          "text": "Atado a una bicicleta mientras vamos circulando",
+          "correct": false
+        },
+        {
+          "id": "q14e",
+          "text": "Suelto en parques y aceras si no hay tráfico",
+          "correct": false
+        },
+        {
+          "id": "q14f",
+          "text": "Con correa solo en horarios de mayor afluencia",
+          "correct": false
+        },
+        {
+          "id": "q14g",
+          "text": "En brazos para evitar cualquier contacto con otras personas",
+          "correct": false
+        },
+        {
+          "id": "q14h",
+          "text": "Sin correa siempre que lleve chapa identificativa",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "text": "Si nuestro perro es considerado raza potencialmente peligrosa, ¿qué diferencia hay a la hora de pasearlo por la ciudad?",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q15a",
+          "text": "Debe pasear con bozal y con la licencia correspondiente, así como con el seguro obligatorio",
+          "correct": true
+        },
+        {
+          "id": "q15b",
+          "text": "Solo necesita licencia, pero no es obligatorio el bozal",
+          "correct": false
+        },
+        {
+          "id": "q15c",
+          "text": "Solo necesita bozal, sin requisitos de licencia ni seguro",
+          "correct": false
+        },
+        {
+          "id": "q15d",
+          "text": "Debe pasear siempre suelto para demostrar sociabilidad",
+          "correct": false
+        },
+        {
+          "id": "q15e",
+          "text": "No hay ninguna diferencia respecto a otros perros",
+          "correct": false
+        },
+        {
+          "id": "q15f",
+          "text": "Solo tiene que ir con correa más corta, sin bozal",
+          "correct": false
+        },
+        {
+          "id": "q15g",
+          "text": "Solo debe llevar bozal en espacios cerrados",
+          "correct": false
+        },
+        {
+          "id": "q15h",
+          "text": "Debe usar collar eléctrico obligatorio",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "text": "¿Qué vacuna es obligatoria en nuestro país?",
+      "explanation": "",
+      "options": [
+        { "id": "q16a", "text": "La vacuna de la rabia", "correct": true },
+        {
+          "id": "q16b",
+          "text": "Solo la vacuna del parvovirus",
+          "correct": false
+        },
+        {
+          "id": "q16c",
+          "text": "Solo la vacuna del moquillo",
+          "correct": false
+        },
+        {
+          "id": "q16d",
+          "text": "Las vacunas son recomendables pero no obligatorias",
+          "correct": false
+        },
+        {
+          "id": "q16e",
+          "text": "La vacuna de la leishmaniosis",
+          "correct": false
+        },
+        {
+          "id": "q16f",
+          "text": "Solo la primera vacuna de cachorro",
+          "correct": false
+        },
+        {
+          "id": "q16g",
+          "text": "Una vacuna anual genérica sin especificar",
+          "correct": false
+        },
+        {
+          "id": "q16h",
+          "text": "No existe ninguna vacuna obligatoria para perros",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "text": "¿Podemos soltar a nuestra mascota en parques y zonas verdes?",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q17a",
+          "text": "No, salvo en zonas habilitadas para ellos",
+          "correct": true
+        },
+        {
+          "id": "q17b",
+          "text": "Sí, en cualquier parque y zona verde",
+          "correct": false
+        },
+        {
+          "id": "q17c",
+          "text": "Solo si no hay niños presentes",
+          "correct": false
+        },
+        {
+          "id": "q17d",
+          "text": "Solo si el perro es de tamaño pequeño",
+          "correct": false
+        },
+        {
+          "id": "q17e",
+          "text": "Sí, siempre que el perro esté vacunado",
+          "correct": false
+        },
+        {
+          "id": "q17f",
+          "text": "Solo si el parque está vallado",
+          "correct": false
+        },
+        {
+          "id": "q17g",
+          "text": "Solo de noche, cuando hay menos gente",
+          "correct": false
+        },
+        {
+          "id": "q17h",
+          "text": "Sí, si el propietario está de acuerdo",
+          "correct": false
+        }
+      ]
+    },
+
+    {
+      "id": "q18",
+      "text": "Enumere algunos de los cuidados fundamentales que necesita su mascota y que sean más importantes para usted.",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q18a",
+          "text": "Vacunas al día, desparasitaciones habituales, limpieza y cepillado, buena alimentación",
+          "correct": true
+        },
+        {
+          "id": "q18b",
+          "text": "Solo paseos cortos sin necesidad de vacunación ni desparasitación",
+          "correct": false
+        },
+        {
+          "id": "q18c",
+          "text": "Dejar comida siempre disponible sin control veterinario",
+          "correct": false
+        },
+        {
+          "id": "q18d",
+          "text": "Solo atención cuando el perro enferma, sin revisiones periódicas",
+          "correct": false
+        },
+        {
+          "id": "q18e",
+          "text": "Bañarlo todos los días con champú fuerte, sin otros cuidados",
+          "correct": false
+        },
+        {
+          "id": "q18f",
+          "text": "Darle restos de comida humana sin dietas específicas para perros",
+          "correct": false
+        },
+        {
+          "id": "q18g",
+          "text": "No sacarlo de casa para evitar que se ensucie",
+          "correct": false
+        },
+        {
+          "id": "q18h",
+          "text": "No realizar ninguna desparasitación ni vacunación si el perro parece sano",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "text": "Estando el perro en posición base de inicio, ¿qué postura debe tener el perro en ese momento?",
+      "explanation": "",
+      "options": [
+        { "id": "q19a", "text": "Sentado junto al guía", "correct": true },
+        { "id": "q19b", "text": "Tumbado frente al guía", "correct": false },
+        {
+          "id": "q19c",
+          "text": "De pie, separado dos metros del guía",
+          "correct": false
+        },
+        {
+          "id": "q19d",
+          "text": "Acostado de lado, relajado",
+          "correct": false
+        },
+        {
+          "id": "q19e",
+          "text": "Sentado frente al guía mirándole directamente",
+          "correct": false
+        },
+        {
+          "id": "q19f",
+          "text": "De pie, con la correa completamente tensa",
+          "correct": false
+        },
+        { "id": "q19g", "text": "Tumbado detrás del guía", "correct": false },
+        {
+          "id": "q19h",
+          "text": "Cualquier postura es válida, no hay norma",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "text": "En nuestra vida diaria son muy importantes las relaciones interpersonales. Cuando dichas situaciones nos llevan a pararnos con un grupo de personas estando de paseo con nuestro perro, ¿cuál será el comportamiento adecuado de nuestro perro y qué posición debe adoptar?",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q20a",
+          "text": "Tranquilo, de pie o sentado",
+          "correct": true
+        },
+        {
+          "id": "q20b",
+          "text": "Saltando sobre las personas para saludar",
+          "correct": false
+        },
+        {
+          "id": "q20c",
+          "text": "Ladrando constantemente para llamar la atención",
+          "correct": false
+        },
+        {
+          "id": "q20d",
+          "text": "Tirando de la correa e intentando huir del grupo",
+          "correct": false
+        },
+        {
+          "id": "q20e",
+          "text": "De pie, pero girando alrededor del guía",
+          "correct": false
+        },
+        {
+          "id": "q20f",
+          "text": "Tumbado de espaldas con las patas hacia arriba",
+          "correct": false
+        },
+        {
+          "id": "q20g",
+          "text": "Hipervigilante y con gruñidos hacia el grupo",
+          "correct": false
+        },
+        {
+          "id": "q20h",
+          "text": "Corrigiendo con mordiscos a quien se acerque demasiado",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q21",
+      "text": "Cuando nos encontramos con corredores o ciclistas mientras paseamos con nuestro perro, ¿qué comportamiento debe adoptar el perro?",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q21a",
+          "text": "Ignorarlos y permanecer tranquilo",
+          "correct": true
+        },
+        {
+          "id": "q21b",
+          "text": "Perseguirlos corriendo detrás de ellos",
+          "correct": false
+        },
+        {
+          "id": "q21c",
+          "text": "Ladrarles para advertir su presencia",
+          "correct": false
+        },
+        {
+          "id": "q21d",
+          "text": "Cruzar bruscamente delante de ellos",
+          "correct": false
+        },
+        {
+          "id": "q21e",
+          "text": "Intentar subirse encima del ciclista",
+          "correct": false
+        },
+        {
+          "id": "q21f",
+          "text": "Sentarse en medio del camino para detenerlos",
+          "correct": false
+        },
+        {
+          "id": "q21g",
+          "text": "Tirarse al suelo y negarse a avanzar",
+          "correct": false
+        },
+        {
+          "id": "q21h",
+          "text": "Interponerse entre el guía y los corredores como protección",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q22",
+      "text": "Cuando nos cruzamos o nos paramos con personas que también pasean a su perro, ¿qué comportamiento debe adoptar nuestro perro?",
+      "explanation": "",
+      "options": [
+        { "id": "q22a", "text": "Tranquilo y sentado", "correct": true },
+        {
+          "id": "q22b",
+          "text": "Tirando de la correa para acercarse bruscamente",
+          "correct": false
+        },
+        {
+          "id": "q22c",
+          "text": "Ladrando e intentando enfrentarse al otro perro",
+          "correct": false
+        },
+        {
+          "id": "q22d",
+          "text": "Escondiéndose detrás del guía y gruñendo",
+          "correct": false
+        },
+        {
+          "id": "q22e",
+          "text": "Saltando encima del otro perro para jugar sin control",
+          "correct": false
+        },
+        {
+          "id": "q22f",
+          "text": "Picando el suelo con las patas y mostrando nerviosismo excesivo",
+          "correct": false
+        },
+        {
+          "id": "q22g",
+          "text": "Interponiéndose de forma agresiva entre los guías",
+          "correct": false
+        },
+        {
+          "id": "q22h",
+          "text": "Acercándose a toda velocidad sin importar la reacción del otro perro",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q23",
+      "text": "Una de las situaciones más habituales con nuestro perro es la visita al veterinario. ¿Cuál debe ser el comportamiento de nuestro animal?",
+      "explanation": "",
+      "options": [
+        { "id": "q23a", "text": "Sereno y tranquilo", "correct": true },
+        {
+          "id": "q23b",
+          "text": "Agresivo, intentando morder al personal",
+          "correct": false
+        },
+        {
+          "id": "q23c",
+          "text": "Ladrando sin parar a otros animales",
+          "correct": false
+        },
+        {
+          "id": "q23d",
+          "text": "Tirando de la correa para escapar de la consulta",
+          "correct": false
+        },
+        {
+          "id": "q23e",
+          "text": "Escondiéndose bajo los muebles y negándose a salir",
+          "correct": false
+        },
+        {
+          "id": "q23f",
+          "text": "Saltando sobre otros propietarios y perros",
+          "correct": false
+        },
+        {
+          "id": "q23g",
+          "text": "Aullando de forma constante durante toda la visita",
+          "correct": false
+        },
+        {
+          "id": "q23h",
+          "text": "Lamiendo de forma compulsiva todos los objetos de la consulta",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q24",
+      "text": "¿En qué horarios se debe hacer ejercicio con el perro en verano?",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q24a",
+          "text": "A primera y última hora del día, cuando la temperatura no es tan alta",
+          "correct": true
+        },
+        {
+          "id": "q24b",
+          "text": "A mediodía, cuando el sol está más alto",
+          "correct": false
+        },
+        {
+          "id": "q24c",
+          "text": "En cualquier momento del día, sin tener en cuenta el calor",
+          "correct": false
+        },
+        {
+          "id": "q24d",
+          "text": "Solo por la tarde, con temperaturas máximas",
+          "correct": false
+        },
+        {
+          "id": "q24e",
+          "text": "Solo en interiores, sin salir a la calle",
+          "correct": false
+        },
+        {
+          "id": "q24f",
+          "text": "Durante las horas centrales del día para que se acostumbre",
+          "correct": false
+        },
+        {
+          "id": "q24g",
+          "text": "En días nublados exclusivamente, evitando el sol siempre",
+          "correct": false
+        },
+        {
+          "id": "q24h",
+          "text": "No es necesario modificar horarios por el calor",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q25",
+      "text": "¿Cada cuánto tiempo es recomendable desparasitar al perro?",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q25a",
+          "text": "Internamente cada 3 meses y externamente cada mes",
+          "correct": true
+        },
+        {
+          "id": "q25b",
+          "text": "Solo una vez al año, de forma interna y externa a la vez",
+          "correct": false
+        },
+        {
+          "id": "q25c",
+          "text": "Solo cuando el perro presente síntomas de parásitos",
+          "correct": false
+        },
+        {
+          "id": "q25d",
+          "text": "Cada 6 meses, tanto interna como externamente",
+          "correct": false
+        },
+        {
+          "id": "q25e",
+          "text": "No es necesario desparasitar si vive en un piso",
+          "correct": false
+        },
+        {
+          "id": "q25f",
+          "text": "Solo externamente, cada 3 meses",
+          "correct": false
+        },
+        {
+          "id": "q25g",
+          "text": "Internamente cada mes y externamente cada 6 meses",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q26",
+      "text": "Si durante la Prueba de Sociabilidad un guía le da una fuerte patada al perro porque intenta escaparse, ¿qué le dirá el juez?",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q26a",
+          "text": "Que no está permitido bajo ningún concepto agredir al perro y lo descalifica",
+          "correct": true
+        },
+        {
+          "id": "q26b",
+          "text": "Que debe controlar mejor al perro, pero puede continuar la prueba",
+          "correct": false
+        },
+        {
+          "id": "q26c",
+          "text": "Que solo está permitido si el perro intenta morder a alguien",
+          "correct": false
+        },
+        {
+          "id": "q26d",
+          "text": "Que la agresión física está permitida en situaciones excepcionales",
+          "correct": false
+        },
+        {
+          "id": "q26e",
+          "text": "Que debe repetir el ejercicio desde el principio como castigo",
+          "correct": false
+        },
+        {
+          "id": "q26f",
+          "text": "Que puede continuar, pero se le restarán puntos",
+          "correct": false
+        },
+        {
+          "id": "q26g",
+          "text": "Que se anotará en el acta, pero no afecta al resultado",
+          "correct": false
+        },
+        {
+          "id": "q26h",
+          "text": "Que corrija al perro con más suavidad, pero sin descalificación",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q27",
+      "text": "Si paseando por el bosque se encuentra dos perros famélicos que muestran agresividad, ¿qué debe hacer?",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q27a",
+          "text": "Intentar cambiar de dirección y avisar al Ayuntamiento para que se ocupen de los perros",
+          "correct": true
+        },
+        {
+          "id": "q27b",
+          "text": "Intentar acercarse para darles comida con el perro suelto",
+          "correct": false
+        },
+        {
+          "id": "q27c",
+          "text": "Dejar que su perro interactúe con ellos para que se tranquilicen",
+          "correct": false
+        },
+        {
+          "id": "q27d",
+          "text": "Ignorarlos completamente y seguir su camino como si no pasara nada",
+          "correct": false
+        },
+        {
+          "id": "q27e",
+          "text": "Lanzar piedras o palos para ahuyentarlos",
+          "correct": false
+        },
+        {
+          "id": "q27f",
+          "text": "Intentar capturarlos con una correa improvisada",
+          "correct": false
+        },
+        {
+          "id": "q27g",
+          "text": "Encerrarlos en un recinto cercano sin avisar a nadie",
+          "correct": false
+        },
+        {
+          "id": "q27h",
+          "text": "Dejar comida cerca y marcharse sin avisar a ninguna autoridad",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q28",
+      "text": "Si vas paseando por la calle y ves a otro perro efectuar sus necesidades y la persona que lo acompaña no recoge los excrementos, ¿qué haces?",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q28a",
+          "text": "Intentar que lo recoja y, si no lo hace, recogerlo usted mismo como respeto al medio ambiente",
+          "correct": true
+        },
+        {
+          "id": "q28b",
+          "text": "Ignorar la situación porque no es responsabilidad suya",
+          "correct": false
+        },
+        {
+          "id": "q28c",
+          "text": "Insultar a la otra persona sin intentar dialogar",
+          "correct": false
+        },
+        {
+          "id": "q28d",
+          "text": "Empujar al dueño del perro para obligarle a recogerlo",
+          "correct": false
+        },
+        {
+          "id": "q28e",
+          "text": "Tirar agua sobre los excrementos y marcharse",
+          "correct": false
+        },
+        {
+          "id": "q28f",
+          "text": "Llamar directamente a la policía sin hablar con la persona",
+          "correct": false
+        },
+        {
+          "id": "q28g",
+          "text": "Hacer una foto y subirla a redes sociales sin más",
+          "correct": false
+        },
+        {
+          "id": "q28h",
+          "text": "Cambiar de acera para no ver la situación",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q29",
+      "text": "Si durante la Prueba de Sociabilidad el guía da un fuerte tirón con la correa a su perro porque intenta irse hacia otro perro, ¿qué le dirá el juez?",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q29a",
+          "text": "Que no se puede efectuar ninguna corrección durante la prueba",
+          "correct": true
+        },
+        {
+          "id": "q29b",
+          "text": "Que un tirón fuerte es aceptable si el perro se distrae",
+          "correct": false
+        },
+        {
+          "id": "q29c",
+          "text": "Que debe utilizar más correcciones físicas para controlarlo",
+          "correct": false
+        },
+        {
+          "id": "q29d",
+          "text": "Que solo se penalizará si el perro se queja de dolor",
+          "correct": false
+        },
+        {
+          "id": "q29e",
+          "text": "Que repita el ejercicio pero con correcciones más suaves",
+          "correct": false
+        },
+        {
+          "id": "q29f",
+          "text": "Que cambie a un collar de ahogo para tener más control",
+          "correct": false
+        },
+        {
+          "id": "q29g",
+          "text": "Que puede seguir corrigiendo mientras no se vea mucho",
+          "correct": false
+        },
+        {
+          "id": "q29h",
+          "text": "Que solo se puede corregir al inicio del ejercicio",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q30",
+      "text": "Un perro con nueve meses, ¿puede estar preparado para aprobar la Prueba de Sociabilidad?",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q30a",
+          "text": "Sí, pero no puede presentarse hasta que tenga los 10 meses",
+          "correct": true
+        },
+        {
+          "id": "q30b",
+          "text": "No, nunca puede estar preparado con menos de 10 meses",
+          "correct": false
+        },
+        {
+          "id": "q30c",
+          "text": "Sí, y puede presentarse sin problema aunque tenga 9 meses",
+          "correct": false
+        },
+        {
+          "id": "q30d",
+          "text": "Solo puede presentarse si el juez lo autoriza expresamente",
+          "correct": false
+        },
+        {
+          "id": "q30e",
+          "text": "Debe esperar a cumplir al menos 12 meses para estar preparado",
+          "correct": false
+        },
+        {
+          "id": "q30f",
+          "text": "Solo puede hacer la parte urbana, no la de pista",
+          "correct": false
+        },
+        {
+          "id": "q30g",
+          "text": "Puede hacer la prueba completa si el guía firma una autorización",
+          "correct": false
+        },
+        {
+          "id": "q30h",
+          "text": "Puede presentarse si ha pasado un test veterinario especial",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q31",
+      "text": "El perro debe ir con dispositivos de seguridad cuando viaja en el coche (separador de carga, transportín, etc.). ¿Puede ir en el asiento trasero? ¿Existe alguna excepción para viajar delante en el asiento del copiloto?",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q31a",
+          "text": "Puede ir en el asiento trasero con cinturón de seguridad homologado; no puede viajar nunca en el asiento delantero",
+          "correct": true
+        },
+        {
+          "id": "q31b",
+          "text": "Puede ir suelto en los asientos traseros si es perro pequeño",
+          "correct": false
+        },
+        {
+          "id": "q31c",
+          "text": "Puede ir en el asiento delantero si lleva bozal",
+          "correct": false
+        },
+        {
+          "id": "q31d",
+          "text": "Puede ir siempre en el asiento delantero si está tranquilo",
+          "correct": false
+        },
+        {
+          "id": "q31e",
+          "text": "Solo puede ir en el maletero, nunca en los asientos",
+          "correct": false
+        },
+        {
+          "id": "q31f",
+          "text": "Puede ir en el asiento delantero si el airbag está desactivado",
+          "correct": false
+        },
+        {
+          "id": "q31g",
+          "text": "Puede ir en el asiento trasero sin ningún sistema de sujeción",
+          "correct": false
+        },
+        {
+          "id": "q31h",
+          "text": "Puede ir en el asiento delantero si va atado con la correa al cinturón",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q32",
+      "text": "¿Qué aspectos son valorados en el apartado de 'seguimiento del perro con la correa' durante la Prueba de Sociabilidad?",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q32a",
+          "text": "Que el perro camine en armonía con su guía, sin tirar de la correa y prestando atención al mismo",
+          "correct": true
+        },
+        {
+          "id": "q32b",
+          "text": "Que el perro avance rápido por delante del guía para mostrar iniciativa",
+          "correct": false
+        },
+        {
+          "id": "q32c",
+          "text": "Que el perro vaya siempre detrás del guía, sin mirar alrededor",
+          "correct": false
+        },
+        {
+          "id": "q32d",
+          "text": "Que el perro se siente cada pocos pasos sin orden del guía",
+          "correct": false
+        },
+        {
+          "id": "q32e",
+          "text": "Que el perro tire ocasionalmente de la correa para explorar",
+          "correct": false
+        },
+        {
+          "id": "q32f",
+          "text": "Que el guía mantenga la correa siempre tensa para controlarlo",
+          "correct": false
+        },
+        {
+          "id": "q32g",
+          "text": "Que el perro ignore completamente al guía y solo observe el entorno",
+          "correct": false
+        },
+        {
+          "id": "q32h",
+          "text": "Que el perro se siente o se tumbe cuando lo decida por sí mismo",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q33",
+      "text": "¿Qué documentos debe llevar si viaja con el perro por los Estados miembros de la Unión Europea?",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q33a",
+          "text": "Cartilla veterinaria y pasaporte para animales de compañía",
+          "correct": true
+        },
+        {
+          "id": "q33b",
+          "text": "Solo el DNI del propietario y una foto del perro",
+          "correct": false
+        },
+        {
+          "id": "q33c",
+          "text": "Solo el certificado de empadronamiento del propietario",
+          "correct": false
+        },
+        {
+          "id": "q33d",
+          "text": "Solo un justificante de la compra del animal",
+          "correct": false
+        },
+        {
+          "id": "q33e",
+          "text": "Un documento escrito a mano con el nombre del perro",
+          "correct": false
+        },
+        {
+          "id": "q33f",
+          "text": "Ningún documento es necesario dentro de la UE",
+          "correct": false
+        },
+        {
+          "id": "q33g",
+          "text": "Solo la cartilla de vacunas, sin pasaporte",
+          "correct": false
+        },
+        {
+          "id": "q33h",
+          "text": "Solo el pasaporte, sin necesidad de cartilla veterinaria",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q34",
+      "text": "¿Cuántos perros potencialmente peligrosos puede llevar una persona?",
+      "explanation": "",
+      "options": [
+        { "id": "q34a", "text": "Uno", "correct": true },
+        { "id": "q34b", "text": "Dos", "correct": false },
+        { "id": "q34c", "text": "Tres", "correct": false },
+        { "id": "q34d", "text": "Cuatro", "correct": false },
+        { "id": "q34e", "text": "Cinco", "correct": false },
+        { "id": "q34f", "text": "No hay límite establecido", "correct": false },
+        { "id": "q34g", "text": "Depende del municipio", "correct": false },
+        {
+          "id": "q34h",
+          "text": "Depende del tamaño de los perros",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q35",
+      "text": "¿Es conveniente para la convivencia en sociedad educar al perro?",
+      "explanation": "",
+      "options": [
+        { "id": "q35a", "text": "Sí", "correct": true },
+        {
+          "id": "q35b",
+          "text": "No, el perro aprende por sí solo",
+          "correct": false
+        },
+        {
+          "id": "q35c",
+          "text": "Solo si es un perro de trabajo",
+          "correct": false
+        },
+        {
+          "id": "q35d",
+          "text": "Solo si vive en un piso pequeño",
+          "correct": false
+        },
+        {
+          "id": "q35e",
+          "text": "No, la educación solo es necesaria en cachorros",
+          "correct": false
+        },
+        {
+          "id": "q35f",
+          "text": "Solo si el perro muestra agresividad",
+          "correct": false
+        },
+        {
+          "id": "q35g",
+          "text": "Solo si el perro es de raza grande",
+          "correct": false
+        },
+        {
+          "id": "q35h",
+          "text": "No, basta con sacarlo a pasear",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q36",
+      "text": "¿El perro ha de disponer de un Seguro de Responsabilidad Civil que cubra los daños que pueda ocasionar?",
+      "explanation": "",
+      "options": [
+        { "id": "q36a", "text": "Sí", "correct": true },
+        {
+          "id": "q36b",
+          "text": "No, solo los perros potencialmente peligrosos",
+          "correct": false
+        },
+        {
+          "id": "q36c",
+          "text": "Solo si el perro pesa más de 20 kg",
+          "correct": false
+        },
+        {
+          "id": "q36d",
+          "text": "Solo si vive en una zona urbana",
+          "correct": false
+        },
+        {
+          "id": "q36e",
+          "text": "No, es opcional en todos los casos",
+          "correct": false
+        },
+        {
+          "id": "q36f",
+          "text": "Solo si el perro ha causado daños anteriormente",
+          "correct": false
+        },
+        {
+          "id": "q36g",
+          "text": "Solo si el perro no está identificado con microchip",
+          "correct": false
+        },
+        {
+          "id": "q36h",
+          "text": "Solo si el perro participa en competiciones deportivas",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q37",
+      "text": "¿Es importante para el nuevo propietario de un perro disponer de información sobre el comportamiento de la raza o procedencia del perro que tiene?",
+      "explanation": "",
+      "options": [
+        { "id": "q37a", "text": "Sí", "correct": true },
+        {
+          "id": "q37b",
+          "text": "No, el comportamiento es siempre igual en todos los perros",
+          "correct": false
+        },
+        {
+          "id": "q37c",
+          "text": "Solo si es un perro de raza potencialmente peligrosa",
+          "correct": false
+        },
+        {
+          "id": "q37d",
+          "text": "Solo si el perro va a competir en deporte",
+          "correct": false
+        },
+        {
+          "id": "q37e",
+          "text": "No, basta con mirar vídeos en internet",
+          "correct": false
+        },
+        {
+          "id": "q37f",
+          "text": "Solo si el perro va a convivir con niños",
+          "correct": false
+        },
+        {
+          "id": "q37g",
+          "text": "Solo si el perro vive en un piso",
+          "correct": false
+        },
+        {
+          "id": "q37h",
+          "text": "No, es un dato sin relevancia práctica",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q38",
+      "text": "¿El propietario ha de conocer los aspectos legales (deberes y obligaciones) de la Comunidad Autónoma donde habita?",
+      "explanation": "",
+      "options": [
+        { "id": "q38a", "text": "Sí", "correct": true },
+        {
+          "id": "q38b",
+          "text": "No, solo las normas del Ayuntamiento",
+          "correct": false
+        },
+        {
+          "id": "q38c",
+          "text": "Solo si tiene más de un perro",
+          "correct": false
+        },
+        {
+          "id": "q38d",
+          "text": "Solo si el perro es de raza potencialmente peligrosa",
+          "correct": false
+        },
+        {
+          "id": "q38e",
+          "text": "No, las leyes no afectan a la tenencia de perros",
+          "correct": false
+        },
+        {
+          "id": "q38f",
+          "text": "Solo si el perro vive en exterior",
+          "correct": false
+        },
+        {
+          "id": "q38g",
+          "text": "Solo si el perro participa en pruebas oficiales",
+          "correct": false
+        },
+        {
+          "id": "q38h",
+          "text": "No, basta con seguir el criterio del veterinario",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q39",
+      "text": "¿Cuántos ejercicios componen la Prueba de Sociabilidad de la RSCE?",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q39a",
+          "text": "7 ejercicios en la parte de pista y 9 en la parte urbana",
+          "correct": true
+        },
+        {
+          "id": "q39b",
+          "text": "5 ejercicios en pista y 5 en urbana",
+          "correct": false
+        },
+        {
+          "id": "q39c",
+          "text": "7 ejercicios en pista y 7 en urbana",
+          "correct": false
+        },
+        {
+          "id": "q39d",
+          "text": "9 ejercicios en pista y 7 en urbana",
+          "correct": false
+        },
+        {
+          "id": "q39e",
+          "text": "Solo 7 ejercicios en total, sin parte urbana",
+          "correct": false
+        },
+        {
+          "id": "q39f",
+          "text": "Solo 9 ejercicios en total, sin parte de pista",
+          "correct": false
+        },
+        {
+          "id": "q39g",
+          "text": "12 ejercicios en la parte de pista y ninguno en urbana",
+          "correct": false
+        },
+        {
+          "id": "q39h",
+          "text": "El número de ejercicios depende del juez",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q40",
+      "text": "¿Se puede realizar la prueba urbana si no se ha superado la parte de pista?",
+      "explanation": "",
+      "options": [
+        { "id": "q40a", "text": "No", "correct": true },
+        {
+          "id": "q40b",
+          "text": "Sí, siempre que el guía lo solicite",
+          "correct": false
+        },
+        {
+          "id": "q40c",
+          "text": "Sí, si el perro ha aprobado en otra prueba similar",
+          "correct": false
+        },
+        {
+          "id": "q40d",
+          "text": "Sí, si el perro es mayor de 2 años",
+          "correct": false
+        },
+        {
+          "id": "q40e",
+          "text": "Depende del criterio del juez en ese momento",
+          "correct": false
+        },
+        {
+          "id": "q40f",
+          "text": "Solo si falla por poco en la parte de pista",
+          "correct": false
+        },
+        {
+          "id": "q40g",
+          "text": "Solo si la parte de pista no se puede realizar por mal tiempo",
+          "correct": false
+        },
+        {
+          "id": "q40h",
+          "text": "Sí, pero no se tendrá en cuenta el resultado",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q41",
+      "text": "¿Se necesita que el perro esté inscrito en el LOE para realizar la Prueba de Sociabilidad de la RSCE?",
+      "explanation": "",
+      "options": [
+        { "id": "q41a", "text": "No", "correct": true },
+        { "id": "q41b", "text": "Sí, siempre", "correct": false },
+        {
+          "id": "q41c",
+          "text": "Solo si el perro es de raza pura",
+          "correct": false
+        },
+        {
+          "id": "q41d",
+          "text": "Solo si el perro va a competir posteriormente",
+          "correct": false
+        },
+        {
+          "id": "q41e",
+          "text": "Solo si el perro es de raza potencialmente peligrosa",
+          "correct": false
+        },
+        {
+          "id": "q41f",
+          "text": "Sí, salvo que tenga más de 7 años",
+          "correct": false
+        },
+        {
+          "id": "q41g",
+          "text": "Solo si el perro ha nacido en España",
+          "correct": false
+        },
+        {
+          "id": "q41h",
+          "text": "Sí, salvo que el juez autorice lo contrario",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q42",
+      "text": "Responsabilidades de los propietarios de mascotas caninas frente a la sociedad en el momento del paseo de su mascota.",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q42a",
+          "text": "Tener a la mascota controlada en todo momento, llevar correa y en su caso bozal, recoger las heces y llevar al perro aseado",
+          "correct": true
+        },
+        {
+          "id": "q42b",
+          "text": "Solo pasear al perro sin necesidad de recoger las heces",
+          "correct": false
+        },
+        {
+          "id": "q42c",
+          "text": "Permitir que el perro se acerque a todo el mundo sin control",
+          "correct": false
+        },
+        {
+          "id": "q42d",
+          "text": "Llevar al perro suelto si responde a la llamada, sin más obligaciones",
+          "correct": false
+        },
+        {
+          "id": "q42e",
+          "text": "No dejar que nadie se acerque al perro para evitar problemas",
+          "correct": false
+        },
+        {
+          "id": "q42f",
+          "text": "Solo es obligatorio el bozal, sin más responsabilidades",
+          "correct": false
+        },
+        {
+          "id": "q42g",
+          "text": "No es necesario recoger las heces si se entierran en la tierra",
+          "correct": false
+        },
+        {
+          "id": "q42h",
+          "text": "Las responsabilidades recaen únicamente en el Ayuntamiento",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q43",
+      "text": "Frecuencia recomendada, de acuerdo a tratados veterinarios, para realizar una profilaxis higiénica de su mascota (pelo, uñas, ojos, oídos, etc.).",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q43a",
+          "text": "La frecuencia necesaria para mantener la buena salud del perro",
+          "correct": true
+        },
+        {
+          "id": "q43b",
+          "text": "Solo una vez al año, coincidiendo con las vacunas",
+          "correct": false
+        },
+        {
+          "id": "q43c",
+          "text": "Nunca, el perro se limpia solo",
+          "correct": false
+        },
+        {
+          "id": "q43d",
+          "text": "Solo cuando el perro huela mal",
+          "correct": false
+        },
+        {
+          "id": "q43e",
+          "text": "Una vez cada 5 años, salvo que el perro enferme",
+          "correct": false
+        },
+        {
+          "id": "q43f",
+          "text": "Solo cuando el veterinario lo indique expresamente",
+          "correct": false
+        },
+        {
+          "id": "q43g",
+          "text": "Cada día con productos fuertes independientemente del estado del perro",
+          "correct": false
+        },
+        {
+          "id": "q43h",
+          "text": "No hace falta ningún cuidado higiénico si vive en interior",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q44",
+      "text": "Mencione al menos tres obligaciones que ha de tener en cuenta como propietario de una mascota canina.",
+      "explanation": "",
+      "options": [
+        {
+          "id": "q44a",
+          "text": "Proporcionar un habitáculo en buenas condiciones higiénicas, alimentación adecuada y ejercicio diario",
+          "correct": true
+        },
+        {
+          "id": "q44b",
+          "text": "Alimentación abundante sin control, sin necesidad de ejercicio",
+          "correct": false
+        },
+        {
+          "id": "q44c",
+          "text": "Mantener al perro atado todo el día para que no moleste",
+          "correct": false
+        },
+        {
+          "id": "q44d",
+          "text": "No ofrecer nunca ejercicio ni estímulo mental",
+          "correct": false
+        },
+        {
+          "id": "q44e",
+          "text": "Sustituir las salidas por uso de correa extensible en casa",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}
