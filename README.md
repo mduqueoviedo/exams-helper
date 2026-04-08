@@ -10,4 +10,3 @@ Built with React 19, TypeScript, Vite, and Tailwind CSS.
 pnpm install
 pnpm dev
 ```
-

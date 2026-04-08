@@ -301,6 +301,12 @@ function App() {
             Reiniciar examen
           </button>
         </footer>
+
+        <p className="mt-5 pt-4 border-t border-slate-100 text-xs text-slate-400 text-center">
+          Proyecto personal sin carácter oficial. La información puede contener
+          errores; contrástala siempre con fuentes oficiales. El autor no asume
+          ninguna responsabilidad por su uso.
+        </p>
       </div>
     </div>
   );
